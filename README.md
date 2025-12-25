@@ -3,8 +3,11 @@ PNEditor (Petri Net editor)
 Code is in :
 
 src/petrinet for original classes
+
 src/test for tests
+
 src/org/pneditor/petrinet for abstract classes and adapters
+
 src/exceptions for exceptions
 
 ========
